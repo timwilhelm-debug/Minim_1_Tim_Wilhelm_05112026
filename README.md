@@ -25,4 +25,4 @@ Els drons es poden portar a un magatzem per arreglar-los.
 
 ## Estat
 
-- Tot fet i funcionant.
+- Els test funcionen i les operacions també
